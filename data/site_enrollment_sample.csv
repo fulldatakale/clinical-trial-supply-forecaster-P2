@@ -1,0 +1,7 @@
+site_id,week,patients_on_treatment,dropout_rate,stock_on_hand,pack_size,lead_time_weeks
+JP001,1,10,0.05,120,1,4
+JP001,2,12,0.05,110,1,4
+US010,1,8,0.08,80,1,5
+US010,2,9,0.08,70,1,5
+EU021,1,15,0.04,150,1,6
+EU021,2,16,0.04,140,1,6
